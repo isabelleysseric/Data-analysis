@@ -13,7 +13,7 @@
 
 ## Repertoire
 
-Dans le dossier **code**, il y a deux fichiers dont un sur la manipulation et l'analyse de données '<i>data_manipulation_and_analysis.R</i>' et l'autre sur l'analyse de graphes '<i>graph_analysis.R</i>'.
+Dans le dossier **code**, il y a deux fichiers dont un sur la manipulation et l'analyse de données *data_manipulation_and_analysis.R* et l'autre sur l'analyse de graphes *graph_analysis.R*.
 
 Dans le dossier **images**, il y a les images utilisées dans le wiki pour visualiser les résultats de l'analyse de données. 
 
