@@ -2,11 +2,14 @@
 <br/>
 <br/>
 
-[Data-analysis](https://github.com/isabelleysseric/Data-analysis) (GitHub)
-&nbsp; • &nbsp;[Data-analysis](https://github.com/isabelleysseric/Data-analysis/wiki) (Wiki)
-&nbsp; • &nbsp;[isabelleysseric](https://hub.docker.com/u/isabelleysseric) (Docker)
-&nbsp; • &nbsp;[isabelleysseric.com](https://isabelleysseric.com) (Portfolio)
-&nbsp; • &nbsp;[isabelle-eysseric](https://www.linkedin.com/in/isabelle-eysseric/) (Linkedin)
+
+<p align='center'>
+  <a href="https://github.com/isabelleysseric/Data-analysis">Data-analysis</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/Data-analysis/wiki">Data-analysis</a> (Wiki)<br/>
+  <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
+  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn) <br/><br/><br/>
+</p>
 <br/>
 <br/>
 
